@@ -1,3 +1,3 @@
 # hello-world
 First repository
-No changes made at all
+No changes made at all.
