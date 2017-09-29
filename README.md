@@ -1,3 +1,3 @@
 # hello-world
 First repository
-This is original file master
+And this is a second file master with a little longer sentence.
